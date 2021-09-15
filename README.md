@@ -1,33 +1,31 @@
 # A Beginners Pen Testing Kit
 
->## Project Abstract
-<p> </p>
 
-_At least one paragraph description of the overall project. Include a UML use case diagram or other helpful diagram._ 
+>## Project Abstract
+<p>The idea of this project is to create a site where someone could go and downlad scriptes that a beginner pen tester would need. </p>
+
 
 ![ADD USE CASE UML]
 
 >## Project Relevance
-_A one paragraph explanation of how the proposal is linked to the educational goals of this class and why this goal is important goal (see list of subject in Initial Survey or slide 7 and 8 in CIS3296Introduction.pptx)_
+Over the past year I've become intrested in Cyberscurity. My goals are to become more wellrounded in this space of technology. It would also have a few moving parts needing project management, having to tests scripts and the host site. 
 
 >## Conceptual Design
-_A one-paragraph description of your proposed contribution._
+This project would include building a site and creating serveral different kinda of scripts. To name a few -- Key Logger,Network Port Scanning, Data Extraction and Regex. 
+
 
 >## Background
-_A URL reference to the project. Add text on how to build and run succesfully._ 
 
-<https://github.com/temple-cis3296/MainPaystationLab>
+<https://github.com/enaqx/awesome-pentest>
 
 ***Building***
-- Do now work with NetBeans 8.0.2 (I have tried) use I have used NetBeans 11 on MacOS instead. 
-- Select pom.xml when opening project in NetBeans 11. 
-- First build is taking a long time as it is downloading many things but eventually succeed.
+- Needs more thought 
 
 **Running**
-- Do not contains a main so do not run the expected way. 
-- Select "Run Tests" from Run menu in NetBeans. 
+- Will be an executable code and will run once told to.
 
 ## Required Resources
-- _Group members competencies_
-- _Hardware and software resource required_
+- Woking in Python 3 for the scripts 
+- Using HTML, CSS and possibly Javascript to build the site. 
+- Using Raspberry Pi Pico to tests the scripts. -- Possibly  
 
